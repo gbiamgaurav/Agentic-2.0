@@ -20,3 +20,4 @@ langchain_chroma
 langgraph
 duckduckgo-search
 yfinance
+langchain_experimental
