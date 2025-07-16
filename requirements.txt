@@ -21,3 +21,7 @@ langgraph
 duckduckgo-search
 yfinance
 langchain_experimental
+autogen-agentchat
+autogen-core
+autogen-ext
+autogen-ext[http-tool]
