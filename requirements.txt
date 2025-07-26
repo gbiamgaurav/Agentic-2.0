@@ -25,3 +25,5 @@ autogen-agentchat
 autogen-core
 autogen-ext
 autogen-ext[http-tool]
+docker 
+autogen-ext[docker]
