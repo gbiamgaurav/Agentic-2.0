@@ -27,3 +27,4 @@ autogen-ext
 autogen-ext[http-tool]
 docker 
 autogen-ext[docker]
+autogen-ext[mcp]
